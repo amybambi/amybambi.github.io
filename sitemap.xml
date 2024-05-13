@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://amybambi.github.io/gallery/coresessions/index.html</loc>
+    
+    <lastmod>2024-05-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://amybambi.github.io/2023/08/31/BAM0001/</loc>
     
     <lastmod>2024-05-13</lastmod>
@@ -482,15 +491,6 @@
     <loc>https://amybambi.github.io/2019/05/03/EMO0002/</loc>
     
     <lastmod>2024-01-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://amybambi.github.io/gallery/coresessions/index.html</loc>
-    
-    <lastmod>2023-10-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
